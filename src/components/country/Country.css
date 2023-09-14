@@ -1,0 +1,12 @@
+.country {
+  margin: 15px 0;
+  padding: 15px;
+  border-radius: 10px;
+  border: 1px solid coral;
+}
+button {
+  margin-right: 10px;
+}
+.visited {
+  background-color: bisque;
+}
